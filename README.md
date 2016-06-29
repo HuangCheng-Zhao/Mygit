@@ -1,0 +1,2 @@
+# Mygit
+a new repository
